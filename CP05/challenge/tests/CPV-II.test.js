@@ -10,7 +10,7 @@ const {
   ordenarAscendente8,
   sumaDigitos9,
   esPalindromo10,
-} = require("./funcionesEnJSComplejas.js"); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
+} = require("../CheckPoint-05-II.js"); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
 
 // Prueba 1: Verificar esPrimo1
 test("Prueba: esPrimo1(7)", () => {

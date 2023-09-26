@@ -10,7 +10,7 @@ const {
   esCuadradoPerfecto8,
   encontrarFibonacciConNDigitos9,
   sumaDigitosPotenciaDeDos10,
-} = require("./funcionesEnJSAvanzadas.js"); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
+} = require("../CheckPoint-05-III.js"); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
 
 // Prueba 1: Verificar fibonacci1
 test("Prueba: fibonacci1(6)", () => {

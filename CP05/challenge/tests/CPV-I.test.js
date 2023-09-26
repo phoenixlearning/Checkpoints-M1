@@ -10,7 +10,7 @@ const {
   determinarSigno8,
   concatenar9,
   factorial10,
-} = require("./funcionesEnJS.js"); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
+} = require("../CheckPoint-05-I.js"); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
 
 // Prueba 1: Verificar suma1
 test("Prueba: Suma 1 + 2", () => {
