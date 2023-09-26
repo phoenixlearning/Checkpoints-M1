@@ -10,7 +10,7 @@ const {
   resultado8,
   resultado9,
   resultado10,
-} = require("./condicionalesSwitch.js"); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
+} = require("../CheckPoint-04-III.js"); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
 
 // Prueba 1: Verificar resultado1
 test("Prueba: Resultado 1", () => {

@@ -10,7 +10,7 @@ const {
   sumaNumeros,
   resultado9,
   potencia,
-} = require('./bucleFor.js'); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
+} = require('../CheckPoint-03-I.js'); // Asegúrate de ajustar la ruta según la ubicación de tu archivo de ejercicios
 
 // Prueba 1: Verificar resultado1
 test('Prueba: Resultado 1', () => {
